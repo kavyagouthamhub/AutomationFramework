@@ -12,3 +12,4 @@ build
 *.perfs
 /.settings/
 /log/
+.DS_Store
